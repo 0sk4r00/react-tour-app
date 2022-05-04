@@ -3,7 +3,7 @@ import React from 'react';
 const Loading = () => {
   return (
 <div className="spinner-border text-center"  role="status">
-  <span class="sr-only"></span>
+  <span className="sr-only"></span>
 </div>
   );
 };
